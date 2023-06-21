@@ -6,7 +6,7 @@ it ("Navigate to login page and contact us page", function(){
     cy.contains("Contact Us").click()
     cy.get("input[id = 'name']").type("Patrick Tshimpuki")
     cy.get("input[id = 'email']").type("ptshimpuki.yahoo.co.uk")
-    cy.get("input[id = 'phone']").type("null")
+    cy.get("input[id = 'phone']").type("0794563232")
     cy.get("textarea[id = 'message']").type("This is a test message")
     cy.get("input[value = 'Send to Customer Care']").click()
 })
