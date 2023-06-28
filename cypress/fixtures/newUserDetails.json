@@ -1,0 +1,16 @@
+{
+
+    "firstName" : "Patrick",
+    "lastName" : "Tshimpuki",
+    "street" : "Adelaide Road",
+    "city" : "London",
+    "state" : "Greater London",
+    "zipCode": "23456",
+    "phonenumber" : "012345678",
+    "ssn" : "145-22-4203",
+    "userName" :"Pat_Tshim_1234",
+    "password" :"Icecream1",
+    "confirmPassword" :"Icecream1",
+    "displayName" : "Patrick Tshimpuki"
+
+}
